@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <script type="text/javascript">
+        recent_weekdata = {{ recent_weekdata | safe }}
+        recent_hourdata = {{ recent_hourdata | safe }}
+        drawChart('recent_weekcontainer', recent_weekdata, HC_TYPE_COLUMN, 'Avg. day distr. in last week',
+                HC_YAXIS_TIME,
+                HC_XAXIS_WEEKDAY, HC_PLOT_STACKED);
+        drawChart('recent_hourcontainer', recent_hourdata, HC_TYPE_COLUMN, 'Avg. hour distr. in last week',
+            HC_YAXIS_TIME, HC_XAXIS_HOUR, null);
+
+        weekdata = {{ weekdata | safe }}
+        hourdata = {{ hourdata | safe }}
+        drawChart('weekcontainer', weekdata, HC_TYPE_COLUMN, 'Avg. day distr. in all',
+                HC_YAXIS_TIME,
+                HC_XAXIS_WEEKDAY, HC_PLOT_STACKED);
+        drawChart('hourcontainer', hourdata, HC_TYPE_COLUMN, 'Avg. hour distr. in all',
+            HC_YAXIS_TIME, HC_XAXIS_HOUR, null);
+    </script>
+    <div id="recent_hourcontainer" style="width: 60%; display:inline-block;"></div>
+    <div id="recent_weekcontainer" style="width: 35%; display:inline-block;"></div>
+    <div id="hourcontainer" style="width: 60%; display:inline-block;"></div>
+    <div id="weekcontainer" style="width: 35%; display:inline-block;"></div>
+{% endblock %}

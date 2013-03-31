@@ -1,0 +1,881 @@
+[03-31 01:24:27]  * Running on http://127.0.0.1:5000/
+[03-31 01:24:27]  * Restarting with reloader
+[03-31 01:24:38] 127.0.0.1 - - [31/Mar/2013 09:24:38] "GET / HTTP/1.1" 500 -
+[03-31 01:24:38] 127.0.0.1 - - [31/Mar/2013 09:24:38] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 01:24:38] 127.0.0.1 - - [31/Mar/2013 09:24:38] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 01:24:38] 127.0.0.1 - - [31/Mar/2013 09:24:38] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 01:24:38] 127.0.0.1 - - [31/Mar/2013 09:24:38] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 01:24:38] 127.0.0.1 - - [31/Mar/2013 09:24:38] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 01:24:38] 127.0.0.1 - - [31/Mar/2013 09:24:38] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 01:24:39] 127.0.0.1 - - [31/Mar/2013 09:24:39] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 01:34:43]  * Running on http://127.0.0.1:5000/
+[03-31 01:34:43]  * Restarting with reloader
+[03-31 01:34:53] 127.0.0.1 - - [31/Mar/2013 09:34:53] "GET / HTTP/1.1" 500 -
+[03-31 01:34:53] 127.0.0.1 - - [31/Mar/2013 09:34:53] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 01:34:53] 127.0.0.1 - - [31/Mar/2013 09:34:53] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 01:34:53] 127.0.0.1 - - [31/Mar/2013 09:34:53] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 01:34:53] 127.0.0.1 - - [31/Mar/2013 09:34:53] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 01:34:53] 127.0.0.1 - - [31/Mar/2013 09:34:53] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 01:34:53] 127.0.0.1 - - [31/Mar/2013 09:34:53] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 01:34:53] 127.0.0.1 - - [31/Mar/2013 09:34:53] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 01:36:16]  * Running on http://127.0.0.1:5000/
+[03-31 01:36:16]  * Restarting with reloader
+[03-31 01:36:19] 127.0.0.1 - - [31/Mar/2013 09:36:19] "GET / HTTP/1.1" 500 -
+[03-31 01:36:19] 127.0.0.1 - - [31/Mar/2013 09:36:19] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 01:36:19] 127.0.0.1 - - [31/Mar/2013 09:36:19] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 01:36:19] 127.0.0.1 - - [31/Mar/2013 09:36:19] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 01:36:19] 127.0.0.1 - - [31/Mar/2013 09:36:19] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 01:36:19] 127.0.0.1 - - [31/Mar/2013 09:36:19] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 01:36:19] 127.0.0.1 - - [31/Mar/2013 09:36:19] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 01:36:19] 127.0.0.1 - - [31/Mar/2013 09:36:19] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 01:37:12]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 01:37:12]  * Restarting with reloader
+[03-31 01:37:15] 127.0.0.1 - - [31/Mar/2013 09:37:15] "GET / HTTP/1.1" 500 -
+[03-31 01:37:15] 127.0.0.1 - - [31/Mar/2013 09:37:15] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 01:37:15] 127.0.0.1 - - [31/Mar/2013 09:37:15] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 01:37:15] 127.0.0.1 - - [31/Mar/2013 09:37:15] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 01:37:15] 127.0.0.1 - - [31/Mar/2013 09:37:15] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 01:37:15] 127.0.0.1 - - [31/Mar/2013 09:37:15] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 01:37:15] 127.0.0.1 - - [31/Mar/2013 09:37:15] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 01:37:16] 127.0.0.1 - - [31/Mar/2013 09:37:16] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 01:37:50]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 01:37:50]  * Restarting with reloader
+[03-31 01:37:53] 127.0.0.1 - - [31/Mar/2013 09:37:53] "GET / HTTP/1.1" 500 -
+[03-31 01:37:53] 127.0.0.1 - - [31/Mar/2013 09:37:53] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 01:37:53] 127.0.0.1 - - [31/Mar/2013 09:37:53] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 01:37:53] 127.0.0.1 - - [31/Mar/2013 09:37:53] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 01:37:53] 127.0.0.1 - - [31/Mar/2013 09:37:53] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 01:37:53] 127.0.0.1 - - [31/Mar/2013 09:37:53] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 01:37:53] 127.0.0.1 - - [31/Mar/2013 09:37:53] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 01:37:53] 127.0.0.1 - - [31/Mar/2013 09:37:53] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 01:38:08] 127.0.0.1 - - [31/Mar/2013 09:38:08] "GET /?__debugger__=yes&cmd=source&frm=4322084944&s=kUD7EkLb45E3wm1ztPjU HTTP/1.1" 200 -
+[03-31 01:38:11] 127.0.0.1 - - [31/Mar/2013 09:38:11] "GET /?__debugger__=yes&cmd=source&frm=4322085200&s=kUD7EkLb45E3wm1ztPjU HTTP/1.1" 200 -
+[03-31 01:38:57]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 01:38:57]  * Restarting with reloader
+[03-31 01:39:01] 127.0.0.1 - - [31/Mar/2013 09:39:01] "GET / HTTP/1.1" 500 -
+[03-31 01:39:01] 127.0.0.1 - - [31/Mar/2013 09:39:01] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 01:39:01] 127.0.0.1 - - [31/Mar/2013 09:39:01] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 01:39:01] 127.0.0.1 - - [31/Mar/2013 09:39:01] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 01:39:01] 127.0.0.1 - - [31/Mar/2013 09:39:01] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 01:39:01] 127.0.0.1 - - [31/Mar/2013 09:39:01] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 01:39:01] 127.0.0.1 - - [31/Mar/2013 09:39:01] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 01:39:01] 127.0.0.1 - - [31/Mar/2013 09:39:01] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 01:39:23]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 01:39:23]  * Restarting with reloader
+[03-31 01:39:25] 127.0.0.1 - - [31/Mar/2013 09:39:25] "GET / HTTP/1.1" 500 -
+[03-31 01:39:25] 127.0.0.1 - - [31/Mar/2013 09:39:25] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 01:39:25] 127.0.0.1 - - [31/Mar/2013 09:39:25] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 01:39:25] 127.0.0.1 - - [31/Mar/2013 09:39:25] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 01:39:26] 127.0.0.1 - - [31/Mar/2013 09:39:26] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 01:39:26] 127.0.0.1 - - [31/Mar/2013 09:39:26] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 01:39:26] 127.0.0.1 - - [31/Mar/2013 09:39:26] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 01:39:26] 127.0.0.1 - - [31/Mar/2013 09:39:26] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 01:39:52] 127.0.0.1 - - [31/Mar/2013 09:39:52] "GET /?__debugger__=yes&cmd=source&frm=4322085008&s=1m4ZKmVIHv4SFgIUhcq4 HTTP/1.1" 200 -
+[03-31 01:40:58]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 01:40:58]  * Restarting with reloader
+[03-31 01:40:59] 127.0.0.1 - - [31/Mar/2013 09:40:59] "GET / HTTP/1.1" 200 -
+[03-31 01:40:59] 127.0.0.1 - - [31/Mar/2013 09:40:59] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 200 -
+[03-31 01:40:59] 127.0.0.1 - - [31/Mar/2013 09:40:59] "GET /static/highcharts.js HTTP/1.1" 200 -
+[03-31 01:40:59] 127.0.0.1 - - [31/Mar/2013 09:40:59] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 01:40:59] 127.0.0.1 - - [31/Mar/2013 09:40:59] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 01:43:59]  * Running on http://127.0.0.1:5000/
+[03-31 01:43:59]  * Restarting with reloader
+[03-31 01:44:05] 127.0.0.1 - - [31/Mar/2013 09:44:05] "GET / HTTP/1.1" 200 -
+[03-31 01:44:05] 127.0.0.1 - - [31/Mar/2013 09:44:05] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 01:44:05] 127.0.0.1 - - [31/Mar/2013 09:44:05] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 01:44:05] 127.0.0.1 - - [31/Mar/2013 09:44:05] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 01:44:05] 127.0.0.1 - - [31/Mar/2013 09:44:05] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 01:44:31] 127.0.0.1 - - [31/Mar/2013 09:44:31] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 01:52:51] 127.0.0.1 - - [31/Mar/2013 09:52:51] "GET / HTTP/1.1" 200 -
+[03-31 01:52:51] 127.0.0.1 - - [31/Mar/2013 09:52:51] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 01:52:51] 127.0.0.1 - - [31/Mar/2013 09:52:51] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 01:52:51] 127.0.0.1 - - [31/Mar/2013 09:52:51] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 01:52:51] 127.0.0.1 - - [31/Mar/2013 09:52:51] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 01:53:34]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 01:53:34]  * Restarting with reloader
+[03-31 01:54:02]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 01:54:02]  * Restarting with reloader
+[03-31 01:54:06] 127.0.0.1 - - [31/Mar/2013 09:54:06] "GET / HTTP/1.1" 200 -
+[03-31 01:54:06] 127.0.0.1 - - [31/Mar/2013 09:54:06] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 01:54:06] 127.0.0.1 - - [31/Mar/2013 09:54:06] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 01:54:06] 127.0.0.1 - - [31/Mar/2013 09:54:06] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 01:54:06] 127.0.0.1 - - [31/Mar/2013 09:54:06] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 01:54:30]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 01:54:30]  * Restarting with reloader
+[03-31 01:54:32] 127.0.0.1 - - [31/Mar/2013 09:54:32] "GET / HTTP/1.1" 200 -
+[03-31 01:54:32] 127.0.0.1 - - [31/Mar/2013 09:54:32] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 01:54:32] 127.0.0.1 - - [31/Mar/2013 09:54:32] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 01:54:32] 127.0.0.1 - - [31/Mar/2013 09:54:32] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 01:54:33] 127.0.0.1 - - [31/Mar/2013 09:54:33] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 02:26:45]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 02:26:45]  * Restarting with reloader
+[03-31 02:29:08]  * Running on http://127.0.0.1:5000/
+[03-31 02:29:08]  * Restarting with reloader
+[03-31 02:29:11] 127.0.0.1 - - [31/Mar/2013 10:29:11] "GET / HTTP/1.1" 500 -
+[03-31 02:29:11] 127.0.0.1 - - [31/Mar/2013 10:29:11] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 02:29:11] 127.0.0.1 - - [31/Mar/2013 10:29:11] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 02:29:11] 127.0.0.1 - - [31/Mar/2013 10:29:11] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 02:29:11] 127.0.0.1 - - [31/Mar/2013 10:29:11] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 02:29:11] 127.0.0.1 - - [31/Mar/2013 10:29:11] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 02:29:11] 127.0.0.1 - - [31/Mar/2013 10:29:11] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 02:29:11] 127.0.0.1 - - [31/Mar/2013 10:29:11] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 02:30:27]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 02:30:27]  * Restarting with reloader
+[03-31 02:30:31] 127.0.0.1 - - [31/Mar/2013 10:30:31] "GET / HTTP/1.1" 200 -
+[03-31 02:30:31] 127.0.0.1 - - [31/Mar/2013 10:30:31] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 02:30:31] 127.0.0.1 - - [31/Mar/2013 10:30:31] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 02:30:31] 127.0.0.1 - - [31/Mar/2013 10:30:31] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 02:30:31] 127.0.0.1 - - [31/Mar/2013 10:30:31] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 02:31:59]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 02:31:59]  * Restarting with reloader
+[03-31 02:32:05] 127.0.0.1 - - [31/Mar/2013 10:32:05] "GET / HTTP/1.1" 200 -
+[03-31 02:32:05] 127.0.0.1 - - [31/Mar/2013 10:32:05] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 02:32:05] 127.0.0.1 - - [31/Mar/2013 10:32:05] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 02:32:05] 127.0.0.1 - - [31/Mar/2013 10:32:05] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 02:32:05] 127.0.0.1 - - [31/Mar/2013 10:32:05] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 02:45:33]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 02:45:33]  * Restarting with reloader
+[03-31 02:45:58]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 02:45:58]  * Restarting with reloader
+[03-31 02:46:02] 127.0.0.1 - - [31/Mar/2013 10:46:02] "GET / HTTP/1.1" 500 -
+[03-31 02:46:02] 127.0.0.1 - - [31/Mar/2013 10:46:02] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 02:46:02] 127.0.0.1 - - [31/Mar/2013 10:46:02] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 02:46:02] 127.0.0.1 - - [31/Mar/2013 10:46:02] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 02:46:02] 127.0.0.1 - - [31/Mar/2013 10:46:02] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 02:46:02] 127.0.0.1 - - [31/Mar/2013 10:46:02] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 02:46:02] 127.0.0.1 - - [31/Mar/2013 10:46:02] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 02:46:02] 127.0.0.1 - - [31/Mar/2013 10:46:02] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 02:46:18]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 02:46:18]  * Restarting with reloader
+[03-31 02:46:20] 127.0.0.1 - - [31/Mar/2013 10:46:20] "GET / HTTP/1.1" 500 -
+[03-31 02:46:20] 127.0.0.1 - - [31/Mar/2013 10:46:20] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 02:46:20] 127.0.0.1 - - [31/Mar/2013 10:46:20] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 02:46:20] 127.0.0.1 - - [31/Mar/2013 10:46:20] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 02:46:20] 127.0.0.1 - - [31/Mar/2013 10:46:20] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 02:46:20] 127.0.0.1 - - [31/Mar/2013 10:46:20] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 02:46:20] 127.0.0.1 - - [31/Mar/2013 10:46:20] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 02:46:20] 127.0.0.1 - - [31/Mar/2013 10:46:20] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 02:46:22] 127.0.0.1 - - [31/Mar/2013 10:46:22] "GET / HTTP/1.1" 500 -
+[03-31 02:46:22] 127.0.0.1 - - [31/Mar/2013 10:46:22] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 02:46:22] 127.0.0.1 - - [31/Mar/2013 10:46:22] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 02:46:22] 127.0.0.1 - - [31/Mar/2013 10:46:22] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 02:46:22] 127.0.0.1 - - [31/Mar/2013 10:46:22] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 02:46:22] 127.0.0.1 - - [31/Mar/2013 10:46:22] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 02:46:22] 127.0.0.1 - - [31/Mar/2013 10:46:22] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 02:46:23] 127.0.0.1 - - [31/Mar/2013 10:46:23] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 02:46:27]  * Running on http://127.0.0.1:5000/
+[03-31 02:46:27]  * Restarting with reloader
+[03-31 02:46:37]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 02:46:37]  * Restarting with reloader
+[03-31 02:46:39] 127.0.0.1 - - [31/Mar/2013 10:46:39] "GET / HTTP/1.1" 200 -
+[03-31 02:46:39] 127.0.0.1 - - [31/Mar/2013 10:46:39] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 02:46:39] 127.0.0.1 - - [31/Mar/2013 10:46:39] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 02:46:39] 127.0.0.1 - - [31/Mar/2013 10:46:39] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 02:46:39] 127.0.0.1 - - [31/Mar/2013 10:46:39] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 02:46:47] 127.0.0.1 - - [31/Mar/2013 10:46:47] "GET / HTTP/1.1" 200 -
+[03-31 02:46:47] 127.0.0.1 - - [31/Mar/2013 10:46:47] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 02:47:35]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 02:47:35]  * Restarting with reloader
+[03-31 02:47:56] 127.0.0.1 - - [31/Mar/2013 10:47:56] "GET / HTTP/1.1" 200 -
+[03-31 02:47:56] 127.0.0.1 - - [31/Mar/2013 10:47:56] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 02:47:56] 127.0.0.1 - - [31/Mar/2013 10:47:56] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 02:47:56] 127.0.0.1 - - [31/Mar/2013 10:47:56] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 02:47:57] 127.0.0.1 - - [31/Mar/2013 10:47:57] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 02:51:34]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 02:51:34]  * Restarting with reloader
+[03-31 02:51:43]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 02:51:43]  * Restarting with reloader
+[03-31 02:56:00] 127.0.0.1 - - [31/Mar/2013 10:56:00] "GET / HTTP/1.1" 200 -
+[03-31 02:56:01] 127.0.0.1 - - [31/Mar/2013 10:56:01] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 02:56:01] 127.0.0.1 - - [31/Mar/2013 10:56:01] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 02:56:01] 127.0.0.1 - - [31/Mar/2013 10:56:01] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 02:56:01] 127.0.0.1 - - [31/Mar/2013 10:56:01] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:02:24] 127.0.0.1 - - [31/Mar/2013 11:02:24] "GET / HTTP/1.1" 200 -
+[03-31 03:02:24] 127.0.0.1 - - [31/Mar/2013 11:02:24] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:02:24] 127.0.0.1 - - [31/Mar/2013 11:02:24] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:02:24] 127.0.0.1 - - [31/Mar/2013 11:02:24] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 03:02:25] 127.0.0.1 - - [31/Mar/2013 11:02:25] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:03:12] 127.0.0.1 - - [31/Mar/2013 11:03:12] "GET / HTTP/1.1" 200 -
+[03-31 03:03:12] 127.0.0.1 - - [31/Mar/2013 11:03:12] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:03:12] 127.0.0.1 - - [31/Mar/2013 11:03:12] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:03:12] 127.0.0.1 - - [31/Mar/2013 11:03:12] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 03:03:12] 127.0.0.1 - - [31/Mar/2013 11:03:12] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:03:37] 127.0.0.1 - - [31/Mar/2013 11:03:37] "GET / HTTP/1.1" 200 -
+[03-31 03:03:37] 127.0.0.1 - - [31/Mar/2013 11:03:37] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:03:37] 127.0.0.1 - - [31/Mar/2013 11:03:37] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:03:37] 127.0.0.1 - - [31/Mar/2013 11:03:37] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 03:03:38] 127.0.0.1 - - [31/Mar/2013 11:03:38] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:11:41] 127.0.0.1 - - [31/Mar/2013 11:11:41] "GET / HTTP/1.1" 200 -
+[03-31 03:11:41] 127.0.0.1 - - [31/Mar/2013 11:11:41] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:11:41] 127.0.0.1 - - [31/Mar/2013 11:11:41] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:11:41] 127.0.0.1 - - [31/Mar/2013 11:11:41] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:11:42] 127.0.0.1 - - [31/Mar/2013 11:11:42] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:12:46] 127.0.0.1 - - [31/Mar/2013 11:12:46] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:13:52] 127.0.0.1 - - [31/Mar/2013 11:13:52] "GET / HTTP/1.1" 200 -
+[03-31 03:13:52] 127.0.0.1 - - [31/Mar/2013 11:13:52] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:13:52] 127.0.0.1 - - [31/Mar/2013 11:13:52] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:13:52] 127.0.0.1 - - [31/Mar/2013 11:13:52] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 03:13:52] 127.0.0.1 - - [31/Mar/2013 11:13:52] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:14:27]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 03:14:27]  * Restarting with reloader
+[03-31 03:17:14] 127.0.0.1 - - [31/Mar/2013 11:17:14] "GET / HTTP/1.1" 200 -
+[03-31 03:17:15] 127.0.0.1 - - [31/Mar/2013 11:17:15] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:17:15] 127.0.0.1 - - [31/Mar/2013 11:17:15] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:17:15] 127.0.0.1 - - [31/Mar/2013 11:17:15] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:17:15] 127.0.0.1 - - [31/Mar/2013 11:17:15] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:22:54] 127.0.0.1 - - [31/Mar/2013 11:22:54] "GET / HTTP/1.1" 200 -
+[03-31 03:22:54] 127.0.0.1 - - [31/Mar/2013 11:22:54] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:22:54] 127.0.0.1 - - [31/Mar/2013 11:22:54] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:22:54] 127.0.0.1 - - [31/Mar/2013 11:22:54] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:22:55] 127.0.0.1 - - [31/Mar/2013 11:22:55] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:23:35] 127.0.0.1 - - [31/Mar/2013 11:23:35] "GET / HTTP/1.1" 200 -
+[03-31 03:23:35] 127.0.0.1 - - [31/Mar/2013 11:23:35] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:23:35] 127.0.0.1 - - [31/Mar/2013 11:23:35] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:23:35] 127.0.0.1 - - [31/Mar/2013 11:23:35] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:23:36] 127.0.0.1 - - [31/Mar/2013 11:23:36] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:23:51] 127.0.0.1 - - [31/Mar/2013 11:23:51] "GET / HTTP/1.1" 200 -
+[03-31 03:23:51] 127.0.0.1 - - [31/Mar/2013 11:23:51] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:23:51] 127.0.0.1 - - [31/Mar/2013 11:23:51] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:23:51] 127.0.0.1 - - [31/Mar/2013 11:23:51] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:23:52] 127.0.0.1 - - [31/Mar/2013 11:23:52] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:24:13] 127.0.0.1 - - [31/Mar/2013 11:24:13] "GET / HTTP/1.1" 200 -
+[03-31 03:24:13] 127.0.0.1 - - [31/Mar/2013 11:24:13] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:24:13] 127.0.0.1 - - [31/Mar/2013 11:24:13] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:24:13] 127.0.0.1 - - [31/Mar/2013 11:24:13] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 03:24:13] 127.0.0.1 - - [31/Mar/2013 11:24:13] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:24:37] 127.0.0.1 - - [31/Mar/2013 11:24:37] "GET / HTTP/1.1" 200 -
+[03-31 03:24:37] 127.0.0.1 - - [31/Mar/2013 11:24:37] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:24:37] 127.0.0.1 - - [31/Mar/2013 11:24:37] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:24:37] 127.0.0.1 - - [31/Mar/2013 11:24:37] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:24:38] 127.0.0.1 - - [31/Mar/2013 11:24:38] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:24:52] 127.0.0.1 - - [31/Mar/2013 11:24:52] "GET / HTTP/1.1" 200 -
+[03-31 03:24:52] 127.0.0.1 - - [31/Mar/2013 11:24:52] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:24:52] 127.0.0.1 - - [31/Mar/2013 11:24:52] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:24:52] 127.0.0.1 - - [31/Mar/2013 11:24:52] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:24:53] 127.0.0.1 - - [31/Mar/2013 11:24:53] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:25:00] 127.0.0.1 - - [31/Mar/2013 11:25:00] "GET / HTTP/1.1" 200 -
+[03-31 03:25:00] 127.0.0.1 - - [31/Mar/2013 11:25:00] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:25:00] 127.0.0.1 - - [31/Mar/2013 11:25:00] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:25:00] 127.0.0.1 - - [31/Mar/2013 11:25:00] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:25:00] 127.0.0.1 - - [31/Mar/2013 11:25:00] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:30:10] 127.0.0.1 - - [31/Mar/2013 11:30:10] "GET / HTTP/1.1" 200 -
+[03-31 03:30:10] 127.0.0.1 - - [31/Mar/2013 11:30:10] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:30:10] 127.0.0.1 - - [31/Mar/2013 11:30:10] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:30:10] 127.0.0.1 - - [31/Mar/2013 11:30:10] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 03:30:10] 127.0.0.1 - - [31/Mar/2013 11:30:10] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:31:50] 127.0.0.1 - - [31/Mar/2013 11:31:50] "GET / HTTP/1.1" 200 -
+[03-31 03:31:50] 127.0.0.1 - - [31/Mar/2013 11:31:50] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:31:50] 127.0.0.1 - - [31/Mar/2013 11:31:50] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:31:50] 127.0.0.1 - - [31/Mar/2013 11:31:50] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 03:31:50] 127.0.0.1 - - [31/Mar/2013 11:31:50] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:32:56] 127.0.0.1 - - [31/Mar/2013 11:32:56] "GET / HTTP/1.1" 200 -
+[03-31 03:32:56] 127.0.0.1 - - [31/Mar/2013 11:32:56] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:32:56] 127.0.0.1 - - [31/Mar/2013 11:32:56] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:32:56] 127.0.0.1 - - [31/Mar/2013 11:32:56] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 03:32:56] 127.0.0.1 - - [31/Mar/2013 11:32:56] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:34:38] 127.0.0.1 - - [31/Mar/2013 11:34:38] "GET / HTTP/1.1" 200 -
+[03-31 03:34:38] 127.0.0.1 - - [31/Mar/2013 11:34:38] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:34:38] 127.0.0.1 - - [31/Mar/2013 11:34:38] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:34:38] 127.0.0.1 - - [31/Mar/2013 11:34:38] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 03:34:38] 127.0.0.1 - - [31/Mar/2013 11:34:38] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:34:49] 127.0.0.1 - - [31/Mar/2013 11:34:49] "GET / HTTP/1.1" 200 -
+[03-31 03:34:49] 127.0.0.1 - - [31/Mar/2013 11:34:49] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:34:49] 127.0.0.1 - - [31/Mar/2013 11:34:49] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:34:49] 127.0.0.1 - - [31/Mar/2013 11:34:49] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 03:34:49] 127.0.0.1 - - [31/Mar/2013 11:34:49] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:36:36] 127.0.0.1 - - [31/Mar/2013 11:36:36] "GET / HTTP/1.1" 200 -
+[03-31 03:36:36] 127.0.0.1 - - [31/Mar/2013 11:36:36] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:36:36] 127.0.0.1 - - [31/Mar/2013 11:36:36] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:36:36] 127.0.0.1 - - [31/Mar/2013 11:36:36] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:36:36] 127.0.0.1 - - [31/Mar/2013 11:36:36] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:38:21] 127.0.0.1 - - [31/Mar/2013 11:38:21] "GET / HTTP/1.1" 200 -
+[03-31 03:38:21] 127.0.0.1 - - [31/Mar/2013 11:38:21] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:38:21] 127.0.0.1 - - [31/Mar/2013 11:38:21] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:38:21] 127.0.0.1 - - [31/Mar/2013 11:38:21] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:38:21] 127.0.0.1 - - [31/Mar/2013 11:38:21] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:38:38] 127.0.0.1 - - [31/Mar/2013 11:38:38] "GET / HTTP/1.1" 200 -
+[03-31 03:38:39] 127.0.0.1 - - [31/Mar/2013 11:38:39] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:38:39] 127.0.0.1 - - [31/Mar/2013 11:38:39] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:38:39] 127.0.0.1 - - [31/Mar/2013 11:38:39] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:38:39] 127.0.0.1 - - [31/Mar/2013 11:38:39] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:43:47] 127.0.0.1 - - [31/Mar/2013 11:43:47] "GET / HTTP/1.1" 200 -
+[03-31 03:43:47] 127.0.0.1 - - [31/Mar/2013 11:43:47] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:43:47] 127.0.0.1 - - [31/Mar/2013 11:43:47] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:43:47] 127.0.0.1 - - [31/Mar/2013 11:43:47] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:43:48] 127.0.0.1 - - [31/Mar/2013 11:43:48] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:53:55] 127.0.0.1 - - [31/Mar/2013 11:53:55] "GET / HTTP/1.1" 200 -
+[03-31 03:53:55] 127.0.0.1 - - [31/Mar/2013 11:53:55] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:53:55] 127.0.0.1 - - [31/Mar/2013 11:53:55] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:53:55] 127.0.0.1 - - [31/Mar/2013 11:53:55] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:53:55] 127.0.0.1 - - [31/Mar/2013 11:53:55] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:53:58] 127.0.0.1 - - [31/Mar/2013 11:53:58] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:55:03] 127.0.0.1 - - [31/Mar/2013 11:55:03] "GET / HTTP/1.1" 200 -
+[03-31 03:55:03] 127.0.0.1 - - [31/Mar/2013 11:55:03] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:55:03] 127.0.0.1 - - [31/Mar/2013 11:55:03] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:55:03] 127.0.0.1 - - [31/Mar/2013 11:55:03] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:55:03] 127.0.0.1 - - [31/Mar/2013 11:55:03] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:56:09] 127.0.0.1 - - [31/Mar/2013 11:56:09] "GET / HTTP/1.1" 200 -
+[03-31 03:56:09] 127.0.0.1 - - [31/Mar/2013 11:56:09] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:56:09] 127.0.0.1 - - [31/Mar/2013 11:56:09] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:56:09] 127.0.0.1 - - [31/Mar/2013 11:56:09] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:56:09] 127.0.0.1 - - [31/Mar/2013 11:56:09] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:57:15] 127.0.0.1 - - [31/Mar/2013 11:57:15] "GET / HTTP/1.1" 200 -
+[03-31 03:57:15] 127.0.0.1 - - [31/Mar/2013 11:57:15] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:57:15] 127.0.0.1 - - [31/Mar/2013 11:57:15] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:57:15] 127.0.0.1 - - [31/Mar/2013 11:57:15] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:57:15] 127.0.0.1 - - [31/Mar/2013 11:57:15] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:57:45] 127.0.0.1 - - [31/Mar/2013 11:57:45] "GET / HTTP/1.1" 200 -
+[03-31 03:57:45] 127.0.0.1 - - [31/Mar/2013 11:57:45] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:57:45] 127.0.0.1 - - [31/Mar/2013 11:57:45] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:57:45] 127.0.0.1 - - [31/Mar/2013 11:57:45] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:57:45] 127.0.0.1 - - [31/Mar/2013 11:57:45] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:58:47] 127.0.0.1 - - [31/Mar/2013 11:58:47] "GET / HTTP/1.1" 200 -
+[03-31 03:58:47] 127.0.0.1 - - [31/Mar/2013 11:58:47] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:58:47] 127.0.0.1 - - [31/Mar/2013 11:58:47] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:58:47] 127.0.0.1 - - [31/Mar/2013 11:58:47] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 03:58:47] 127.0.0.1 - - [31/Mar/2013 11:58:47] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 03:59:49] 127.0.0.1 - - [31/Mar/2013 11:59:49] "GET / HTTP/1.1" 200 -
+[03-31 03:59:49] 127.0.0.1 - - [31/Mar/2013 11:59:49] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 03:59:49] 127.0.0.1 - - [31/Mar/2013 11:59:49] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 03:59:49] 127.0.0.1 - - [31/Mar/2013 11:59:49] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 03:59:49] 127.0.0.1 - - [31/Mar/2013 11:59:49] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 05:17:54] 127.0.0.1 - - [31/Mar/2013 13:17:54] "GET / HTTP/1.1" 200 -
+[03-31 05:17:54] 127.0.0.1 - - [31/Mar/2013 13:17:54] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 05:17:54] 127.0.0.1 - - [31/Mar/2013 13:17:54] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 05:17:54] 127.0.0.1 - - [31/Mar/2013 13:17:54] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 05:17:54] 127.0.0.1 - - [31/Mar/2013 13:17:54] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 05:26:47] 127.0.0.1 - - [31/Mar/2013 13:26:47] "GET / HTTP/1.1" 200 -
+[03-31 05:26:47] 127.0.0.1 - - [31/Mar/2013 13:26:47] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 05:26:47] 127.0.0.1 - - [31/Mar/2013 13:26:47] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 05:26:47] 127.0.0.1 - - [31/Mar/2013 13:26:47] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 05:26:47] 127.0.0.1 - - [31/Mar/2013 13:26:47] "GET /static/favicon.ico HTTP/1.1" 200 -
+[03-31 05:31:49] 127.0.0.1 - - [31/Mar/2013 13:31:49] "GET / HTTP/1.1" 200 -
+[03-31 05:31:49] 127.0.0.1 - - [31/Mar/2013 13:31:49] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 05:31:49] 127.0.0.1 - - [31/Mar/2013 13:31:49] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 05:31:49] 127.0.0.1 - - [31/Mar/2013 13:31:49] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 05:31:51] 127.0.0.1 - - [31/Mar/2013 13:31:51] "GET / HTTP/1.1" 200 -
+[03-31 05:31:51] 127.0.0.1 - - [31/Mar/2013 13:31:51] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 05:31:51] 127.0.0.1 - - [31/Mar/2013 13:31:51] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 05:31:51] 127.0.0.1 - - [31/Mar/2013 13:31:51] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 05:35:25]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/shared.py', reloading
+[03-31 05:35:25]  * Restarting with reloader
+[03-31 05:35:45]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 05:35:45]  * Restarting with reloader
+[03-31 05:36:30]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/shared.py', reloading
+[03-31 05:36:30]  * Restarting with reloader
+[03-31 05:38:28]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 05:38:28]  * Restarting with reloader
+[03-31 05:39:05]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 05:39:05]  * Restarting with reloader
+[03-31 05:39:39]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 05:39:39]  * Restarting with reloader
+[03-31 05:41:47]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 05:41:47]  * Restarting with reloader
+[03-31 05:42:01]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 05:42:01]  * Restarting with reloader
+[03-31 05:43:00]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 05:43:00]  * Restarting with reloader
+[03-31 05:44:35]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/shared.py', reloading
+[03-31 05:44:35]  * Restarting with reloader
+[03-31 05:45:04]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/cfg/__init__.py', reloading
+[03-31 05:45:04]  * Restarting with reloader
+[03-31 05:54:37]  * Running on http://127.0.0.1:5000/
+[03-31 05:54:37]  * Restarting with reloader
+[03-31 05:54:40] 127.0.0.1 - - [31/Mar/2013 13:54:40] "GET / HTTP/1.1" 200 -
+[03-31 05:54:40] 127.0.0.1 - - [31/Mar/2013 13:54:40] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 05:54:40] 127.0.0.1 - - [31/Mar/2013 13:54:40] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 05:54:40] 127.0.0.1 - - [31/Mar/2013 13:54:40] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 05:54:43] 127.0.0.1 - - [31/Mar/2013 13:54:43] "GET / HTTP/1.1" 200 -
+[03-31 05:54:43] 127.0.0.1 - - [31/Mar/2013 13:54:43] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 05:55:56]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 05:55:56]  * Restarting with reloader
+[03-31 05:56:10]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 05:56:10]  * Restarting with reloader
+[03-31 05:56:21]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 05:56:21]  * Restarting with reloader
+[03-31 05:56:31] 127.0.0.1 - - [31/Mar/2013 13:56:31] "GET / HTTP/1.1" 500 -
+[03-31 05:56:32] 127.0.0.1 - - [31/Mar/2013 13:56:32] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 05:56:32] 127.0.0.1 - - [31/Mar/2013 13:56:32] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 05:56:32] 127.0.0.1 - - [31/Mar/2013 13:56:32] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 05:56:32] 127.0.0.1 - - [31/Mar/2013 13:56:32] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 05:56:32] 127.0.0.1 - - [31/Mar/2013 13:56:32] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 05:56:32] 127.0.0.1 - - [31/Mar/2013 13:56:32] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 05:56:32] 127.0.0.1 - - [31/Mar/2013 13:56:32] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 05:57:19]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 05:57:19]  * Restarting with reloader
+[03-31 05:57:22] 127.0.0.1 - - [31/Mar/2013 13:57:22] "GET / HTTP/1.1" 500 -
+[03-31 05:57:22] 127.0.0.1 - - [31/Mar/2013 13:57:22] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 05:57:22] 127.0.0.1 - - [31/Mar/2013 13:57:22] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 05:57:22] 127.0.0.1 - - [31/Mar/2013 13:57:22] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 05:57:22] 127.0.0.1 - - [31/Mar/2013 13:57:22] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 05:57:22] 127.0.0.1 - - [31/Mar/2013 13:57:22] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 05:57:22] 127.0.0.1 - - [31/Mar/2013 13:57:22] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 05:57:22] 127.0.0.1 - - [31/Mar/2013 13:57:22] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 05:57:24] 127.0.0.1 - - [31/Mar/2013 13:57:24] "GET / HTTP/1.1" 500 -
+[03-31 05:57:24] 127.0.0.1 - - [31/Mar/2013 13:57:24] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 05:57:24] 127.0.0.1 - - [31/Mar/2013 13:57:24] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 05:57:24] 127.0.0.1 - - [31/Mar/2013 13:57:24] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 05:57:24] 127.0.0.1 - - [31/Mar/2013 13:57:24] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 05:57:24] 127.0.0.1 - - [31/Mar/2013 13:57:24] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 05:57:24] 127.0.0.1 - - [31/Mar/2013 13:57:24] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 05:57:24] 127.0.0.1 - - [31/Mar/2013 13:57:24] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 05:57:39] 127.0.0.1 - - [31/Mar/2013 13:57:39] "GET / HTTP/1.1" 500 -
+[03-31 05:57:39] 127.0.0.1 - - [31/Mar/2013 13:57:39] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 05:57:39] 127.0.0.1 - - [31/Mar/2013 13:57:39] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 05:57:39] 127.0.0.1 - - [31/Mar/2013 13:57:39] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 05:57:40] 127.0.0.1 - - [31/Mar/2013 13:57:40] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 05:57:40] 127.0.0.1 - - [31/Mar/2013 13:57:40] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 05:57:40] 127.0.0.1 - - [31/Mar/2013 13:57:40] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 05:57:40] 127.0.0.1 - - [31/Mar/2013 13:57:40] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 05:58:56]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 05:58:56]  * Restarting with reloader
+[03-31 05:58:57] 127.0.0.1 - - [31/Mar/2013 13:58:57] "GET / HTTP/1.1" 500 -
+[03-31 05:58:58] 127.0.0.1 - - [31/Mar/2013 13:58:58] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 05:58:58] 127.0.0.1 - - [31/Mar/2013 13:58:58] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 05:58:58] 127.0.0.1 - - [31/Mar/2013 13:58:58] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 05:58:58] 127.0.0.1 - - [31/Mar/2013 13:58:58] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 05:58:58] 127.0.0.1 - - [31/Mar/2013 13:58:58] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 05:58:58] 127.0.0.1 - - [31/Mar/2013 13:58:58] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 05:58:58] 127.0.0.1 - - [31/Mar/2013 13:58:58] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 06:01:14]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/shared.py', reloading
+[03-31 06:01:14]  * Restarting with reloader
+[03-31 06:01:23]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/shared.py', reloading
+[03-31 06:01:23]  * Restarting with reloader
+[03-31 06:01:28] 127.0.0.1 - - [31/Mar/2013 14:01:28] "GET / HTTP/1.1" 500 -
+[03-31 06:01:28] 127.0.0.1 - - [31/Mar/2013 14:01:28] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 06:01:28] 127.0.0.1 - - [31/Mar/2013 14:01:28] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 06:01:28] 127.0.0.1 - - [31/Mar/2013 14:01:28] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 06:01:28] 127.0.0.1 - - [31/Mar/2013 14:01:28] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 06:01:28] 127.0.0.1 - - [31/Mar/2013 14:01:28] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 06:01:28] 127.0.0.1 - - [31/Mar/2013 14:01:28] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 06:01:28] 127.0.0.1 - - [31/Mar/2013 14:01:28] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 06:02:18]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 06:02:18]  * Restarting with reloader
+[03-31 06:02:34]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 06:02:34]  * Restarting with reloader
+[03-31 06:02:37] 127.0.0.1 - - [31/Mar/2013 14:02:37] "GET / HTTP/1.1" 200 -
+[03-31 06:02:37] 127.0.0.1 - - [31/Mar/2013 14:02:37] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 06:02:37] 127.0.0.1 - - [31/Mar/2013 14:02:37] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 06:02:37] 127.0.0.1 - - [31/Mar/2013 14:02:37] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 06:10:15] 127.0.0.1 - - [31/Mar/2013 14:10:15] "GET / HTTP/1.1" 200 -
+[03-31 06:10:16] 127.0.0.1 - - [31/Mar/2013 14:10:16] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 06:10:16] 127.0.0.1 - - [31/Mar/2013 14:10:16] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 06:10:16] 127.0.0.1 - - [31/Mar/2013 14:10:16] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 06:10:22] 127.0.0.1 - - [31/Mar/2013 14:10:22] "GET / HTTP/1.1" 200 -
+[03-31 06:10:22] 127.0.0.1 - - [31/Mar/2013 14:10:22] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 06:10:35] 127.0.0.1 - - [31/Mar/2013 14:10:35] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 06:38:55] 127.0.0.1 - - [31/Mar/2013 14:38:55] "GET / HTTP/1.1" 200 -
+[03-31 06:47:44]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 06:47:44]  * Restarting with reloader
+[03-31 06:48:08]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 06:48:08]  * Restarting with reloader
+[03-31 06:55:03]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 06:55:03]  * Restarting with reloader
+[03-31 06:58:33]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 06:58:33]  * Restarting with reloader
+[03-31 07:06:31]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:06:31]  * Restarting with reloader
+[03-31 07:07:09]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:07:09]  * Restarting with reloader
+[03-31 07:07:14]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:07:14]  * Restarting with reloader
+[03-31 07:09:50]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:09:50]  * Restarting with reloader
+[03-31 07:10:23]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:10:23]  * Restarting with reloader
+[03-31 07:10:33]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:10:33]  * Restarting with reloader
+[03-31 07:12:34]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:12:34]  * Restarting with reloader
+[03-31 07:13:24]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:13:24]  * Restarting with reloader
+[03-31 07:13:32]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:13:32]  * Restarting with reloader
+[03-31 07:13:35]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:13:35]  * Restarting with reloader
+[03-31 07:13:38]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:13:38]  * Restarting with reloader
+[03-31 07:13:44]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:13:44]  * Restarting with reloader
+[03-31 07:13:46]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:13:46]  * Restarting with reloader
+[03-31 07:13:50]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:13:50]  * Restarting with reloader
+[03-31 07:13:54]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:13:54]  * Restarting with reloader
+[03-31 07:15:00]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:15:00]  * Restarting with reloader
+[03-31 07:15:03]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:15:03]  * Restarting with reloader
+[03-31 07:15:10]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:15:10]  * Restarting with reloader
+[03-31 07:15:13]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:15:13]  * Restarting with reloader
+[03-31 07:15:15]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:15:15]  * Restarting with reloader
+[03-31 07:15:49]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:15:49]  * Restarting with reloader
+[03-31 07:15:52]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:15:52]  * Restarting with reloader
+[03-31 07:15:53]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:15:53]  * Restarting with reloader
+[03-31 07:15:55]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:15:55]  * Restarting with reloader
+[03-31 07:15:56]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:15:56]  * Restarting with reloader
+[03-31 07:15:57]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:15:57]  * Restarting with reloader
+[03-31 07:16:08]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:16:08]  * Restarting with reloader
+[03-31 07:16:09]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:16:09]  * Restarting with reloader
+[03-31 07:16:11]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:16:11]  * Restarting with reloader
+[03-31 07:16:15]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:16:15]  * Restarting with reloader
+[03-31 07:16:23]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:16:23]  * Restarting with reloader
+[03-31 07:22:16]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 07:22:16]  * Restarting with reloader
+[03-31 08:29:39]  * Running on http://127.0.0.1:5000/
+[03-31 08:29:39]  * Restarting with reloader
+[03-31 08:29:44] 127.0.0.1 - - [31/Mar/2013 16:29:44] "GET / HTTP/1.1" 200 -
+[03-31 08:30:22] 127.0.0.1 - - [31/Mar/2013 16:30:22] "GET / HTTP/1.1" 200 -
+[03-31 08:30:22] 127.0.0.1 - - [31/Mar/2013 16:30:22] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:30:22] 127.0.0.1 - - [31/Mar/2013 16:30:22] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:30:22] 127.0.0.1 - - [31/Mar/2013 16:30:22] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 08:30:27] 127.0.0.1 - - [31/Mar/2013 16:30:27] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 08:33:22] 127.0.0.1 - - [31/Mar/2013 16:33:22] "GET / HTTP/1.1" 200 -
+[03-31 08:33:23] 127.0.0.1 - - [31/Mar/2013 16:33:23] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:33:23] 127.0.0.1 - - [31/Mar/2013 16:33:23] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:33:23] 127.0.0.1 - - [31/Mar/2013 16:33:23] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 08:33:26] 127.0.0.1 - - [31/Mar/2013 16:33:26] "GET / HTTP/1.1" 200 -
+[03-31 08:33:27] 127.0.0.1 - - [31/Mar/2013 16:33:27] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 08:33:35] 127.0.0.1 - - [31/Mar/2013 16:33:35] "GET / HTTP/1.1" 200 -
+[03-31 08:33:35] 127.0.0.1 - - [31/Mar/2013 16:33:35] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:33:35] 127.0.0.1 - - [31/Mar/2013 16:33:35] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:33:35] 127.0.0.1 - - [31/Mar/2013 16:33:35] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 08:34:17] 127.0.0.1 - - [31/Mar/2013 16:34:17] "GET / HTTP/1.1" 200 -
+[03-31 08:34:18] 127.0.0.1 - - [31/Mar/2013 16:34:18] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:34:18] 127.0.0.1 - - [31/Mar/2013 16:34:18] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:34:18] 127.0.0.1 - - [31/Mar/2013 16:34:18] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 08:35:45] 127.0.0.1 - - [31/Mar/2013 16:35:45] "GET / HTTP/1.1" 200 -
+[03-31 08:35:45] 127.0.0.1 - - [31/Mar/2013 16:35:45] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:35:45] 127.0.0.1 - - [31/Mar/2013 16:35:45] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:35:45] 127.0.0.1 - - [31/Mar/2013 16:35:45] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 08:37:41] 127.0.0.1 - - [31/Mar/2013 16:37:41] "GET / HTTP/1.1" 200 -
+[03-31 08:37:41] 127.0.0.1 - - [31/Mar/2013 16:37:41] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:37:41] 127.0.0.1 - - [31/Mar/2013 16:37:41] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:37:41] 127.0.0.1 - - [31/Mar/2013 16:37:41] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 08:38:03] 127.0.0.1 - - [31/Mar/2013 16:38:03] "GET / HTTP/1.1" 200 -
+[03-31 08:38:03] 127.0.0.1 - - [31/Mar/2013 16:38:03] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:38:03] 127.0.0.1 - - [31/Mar/2013 16:38:03] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:38:03] 127.0.0.1 - - [31/Mar/2013 16:38:03] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 08:38:09] 127.0.0.1 - - [31/Mar/2013 16:38:09] "GET / HTTP/1.1" 200 -
+[03-31 08:38:09] 127.0.0.1 - - [31/Mar/2013 16:38:09] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 08:38:24] 127.0.0.1 - - [31/Mar/2013 16:38:24] "GET / HTTP/1.1" 200 -
+[03-31 08:38:24] 127.0.0.1 - - [31/Mar/2013 16:38:24] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:38:24] 127.0.0.1 - - [31/Mar/2013 16:38:24] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:38:24] 127.0.0.1 - - [31/Mar/2013 16:38:24] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 08:39:35] 127.0.0.1 - - [31/Mar/2013 16:39:35] "GET / HTTP/1.1" 200 -
+[03-31 08:39:35] 127.0.0.1 - - [31/Mar/2013 16:39:35] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:39:35] 127.0.0.1 - - [31/Mar/2013 16:39:35] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:39:35] 127.0.0.1 - - [31/Mar/2013 16:39:35] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 08:39:37] 127.0.0.1 - - [31/Mar/2013 16:39:37] "GET / HTTP/1.1" 200 -
+[03-31 08:39:37] 127.0.0.1 - - [31/Mar/2013 16:39:37] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 08:42:23] 127.0.0.1 - - [31/Mar/2013 16:42:23] "GET / HTTP/1.1" 200 -
+[03-31 08:42:23] 127.0.0.1 - - [31/Mar/2013 16:42:23] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:42:23] 127.0.0.1 - - [31/Mar/2013 16:42:23] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:42:23] 127.0.0.1 - - [31/Mar/2013 16:42:23] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 08:42:26] 127.0.0.1 - - [31/Mar/2013 16:42:26] "GET / HTTP/1.1" 200 -
+[03-31 08:42:26] 127.0.0.1 - - [31/Mar/2013 16:42:26] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 08:43:28] 127.0.0.1 - - [31/Mar/2013 16:43:28] "GET / HTTP/1.1" 200 -
+[03-31 08:43:28] 127.0.0.1 - - [31/Mar/2013 16:43:28] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:43:28] 127.0.0.1 - - [31/Mar/2013 16:43:28] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:43:28] 127.0.0.1 - - [31/Mar/2013 16:43:28] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 08:43:31] 127.0.0.1 - - [31/Mar/2013 16:43:31] "GET / HTTP/1.1" 200 -
+[03-31 08:43:31] 127.0.0.1 - - [31/Mar/2013 16:43:31] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 08:46:26] 127.0.0.1 - - [31/Mar/2013 16:46:26] "GET / HTTP/1.1" 200 -
+[03-31 08:46:26] 127.0.0.1 - - [31/Mar/2013 16:46:26] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:46:26] 127.0.0.1 - - [31/Mar/2013 16:46:26] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:46:26] 127.0.0.1 - - [31/Mar/2013 16:46:26] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 08:48:58] 127.0.0.1 - - [31/Mar/2013 16:48:58] "GET / HTTP/1.1" 200 -
+[03-31 08:48:58] 127.0.0.1 - - [31/Mar/2013 16:48:58] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:48:58] 127.0.0.1 - - [31/Mar/2013 16:48:58] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:48:58] 127.0.0.1 - - [31/Mar/2013 16:48:58] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 08:55:47] 127.0.0.1 - - [31/Mar/2013 16:55:47] "GET / HTTP/1.1" 200 -
+[03-31 08:55:47] 127.0.0.1 - - [31/Mar/2013 16:55:47] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:55:47] 127.0.0.1 - - [31/Mar/2013 16:55:47] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:55:47] 127.0.0.1 - - [31/Mar/2013 16:55:47] "GET /static/hchelper.js HTTP/1.1" 200 -
+[03-31 08:56:03] 127.0.0.1 - - [31/Mar/2013 16:56:03] "GET / HTTP/1.1" 200 -
+[03-31 08:56:03] 127.0.0.1 - - [31/Mar/2013 16:56:03] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 08:56:54]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 08:56:55]  * Restarting with reloader
+[03-31 08:57:04] 127.0.0.1 - - [31/Mar/2013 16:57:04] "GET / HTTP/1.1" 200 -
+[03-31 08:57:04] 127.0.0.1 - - [31/Mar/2013 16:57:04] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:57:04] 127.0.0.1 - - [31/Mar/2013 16:57:04] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:57:04] 127.0.0.1 - - [31/Mar/2013 16:57:04] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 08:57:57]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 08:57:57]  * Restarting with reloader
+[03-31 08:57:59] 127.0.0.1 - - [31/Mar/2013 16:57:59] "GET / HTTP/1.1" 200 -
+[03-31 08:57:59] 127.0.0.1 - - [31/Mar/2013 16:57:59] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:57:59] 127.0.0.1 - - [31/Mar/2013 16:57:59] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:57:59] 127.0.0.1 - - [31/Mar/2013 16:57:59] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 08:59:50]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 08:59:50]  * Restarting with reloader
+[03-31 08:59:55] 127.0.0.1 - - [31/Mar/2013 16:59:55] "GET / HTTP/1.1" 200 -
+[03-31 08:59:55] 127.0.0.1 - - [31/Mar/2013 16:59:55] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 08:59:55] 127.0.0.1 - - [31/Mar/2013 16:59:55] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 08:59:55] 127.0.0.1 - - [31/Mar/2013 16:59:55] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 08:59:59] 127.0.0.1 - - [31/Mar/2013 16:59:59] "GET / HTTP/1.1" 200 -
+[03-31 08:59:59] 127.0.0.1 - - [31/Mar/2013 16:59:59] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 09:01:21]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:01:21]  * Restarting with reloader
+[03-31 09:01:23] 127.0.0.1 - - [31/Mar/2013 17:01:23] "GET / HTTP/1.1" 500 -
+[03-31 09:01:23] 127.0.0.1 - - [31/Mar/2013 17:01:23] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 09:01:23] 127.0.0.1 - - [31/Mar/2013 17:01:23] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 09:01:23] 127.0.0.1 - - [31/Mar/2013 17:01:23] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 09:01:24] 127.0.0.1 - - [31/Mar/2013 17:01:24] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 09:01:24] 127.0.0.1 - - [31/Mar/2013 17:01:24] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 09:01:24] 127.0.0.1 - - [31/Mar/2013 17:01:24] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 09:01:24] 127.0.0.1 - - [31/Mar/2013 17:01:24] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 09:01:36]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:01:36]  * Restarting with reloader
+[03-31 09:01:37] 127.0.0.1 - - [31/Mar/2013 17:01:37] "GET / HTTP/1.1" 500 -
+[03-31 09:01:37] 127.0.0.1 - - [31/Mar/2013 17:01:37] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 09:01:37] 127.0.0.1 - - [31/Mar/2013 17:01:37] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 09:01:37] 127.0.0.1 - - [31/Mar/2013 17:01:37] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 09:01:37] 127.0.0.1 - - [31/Mar/2013 17:01:37] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 09:01:37] 127.0.0.1 - - [31/Mar/2013 17:01:37] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 09:01:37] 127.0.0.1 - - [31/Mar/2013 17:01:37] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 09:01:37] 127.0.0.1 - - [31/Mar/2013 17:01:37] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 09:01:54]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:01:54]  * Restarting with reloader
+[03-31 09:01:57] 127.0.0.1 - - [31/Mar/2013 17:01:57] "GET / HTTP/1.1" 200 -
+[03-31 09:01:57] 127.0.0.1 - - [31/Mar/2013 17:01:57] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 09:01:57] 127.0.0.1 - - [31/Mar/2013 17:01:57] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 09:01:57] 127.0.0.1 - - [31/Mar/2013 17:01:57] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 09:02:24] 127.0.0.1 - - [31/Mar/2013 17:02:24] "GET / HTTP/1.1" 200 -
+[03-31 09:02:24] 127.0.0.1 - - [31/Mar/2013 17:02:24] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 09:02:52]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:02:52]  * Restarting with reloader
+[03-31 09:02:54] 127.0.0.1 - - [31/Mar/2013 17:02:54] "GET / HTTP/1.1" 200 -
+[03-31 09:02:54] 127.0.0.1 - - [31/Mar/2013 17:02:54] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 09:02:54] 127.0.0.1 - - [31/Mar/2013 17:02:54] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 09:02:54] 127.0.0.1 - - [31/Mar/2013 17:02:54] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 09:03:29]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:03:29]  * Restarting with reloader
+[03-31 09:05:49]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:05:49]  * Restarting with reloader
+[03-31 09:05:51] 127.0.0.1 - - [31/Mar/2013 17:05:51] "GET / HTTP/1.1" 200 -
+[03-31 09:05:51] 127.0.0.1 - - [31/Mar/2013 17:05:51] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 09:05:51] 127.0.0.1 - - [31/Mar/2013 17:05:51] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 09:05:51] 127.0.0.1 - - [31/Mar/2013 17:05:51] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 09:06:43]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:06:43]  * Restarting with reloader
+[03-31 09:06:48] 127.0.0.1 - - [31/Mar/2013 17:06:48] "GET / HTTP/1.1" 200 -
+[03-31 09:06:48] 127.0.0.1 - - [31/Mar/2013 17:06:48] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 09:06:48] 127.0.0.1 - - [31/Mar/2013 17:06:48] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 09:06:48] 127.0.0.1 - - [31/Mar/2013 17:06:48] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 09:07:11]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:07:11]  * Restarting with reloader
+[03-31 09:07:14] 127.0.0.1 - - [31/Mar/2013 17:07:14] "GET / HTTP/1.1" 200 -
+[03-31 09:07:14] 127.0.0.1 - - [31/Mar/2013 17:07:14] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 09:07:14] 127.0.0.1 - - [31/Mar/2013 17:07:14] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 09:07:14] 127.0.0.1 - - [31/Mar/2013 17:07:14] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 09:08:28]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:08:28]  * Restarting with reloader
+[03-31 09:10:25]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:10:25]  * Restarting with reloader
+[03-31 09:10:35]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:10:35]  * Restarting with reloader
+[03-31 09:10:39] 127.0.0.1 - - [31/Mar/2013 17:10:39] "GET / HTTP/1.1" 200 -
+[03-31 09:10:39] 127.0.0.1 - - [31/Mar/2013 17:10:39] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 09:10:39] 127.0.0.1 - - [31/Mar/2013 17:10:39] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 09:10:39] 127.0.0.1 - - [31/Mar/2013 17:10:39] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 09:12:25]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:12:25]  * Restarting with reloader
+[03-31 09:13:33]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:13:33]  * Restarting with reloader
+[03-31 09:13:35] 127.0.0.1 - - [31/Mar/2013 17:13:35] "GET / HTTP/1.1" 200 -
+[03-31 09:13:36] 127.0.0.1 - - [31/Mar/2013 17:13:36] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 09:13:36] 127.0.0.1 - - [31/Mar/2013 17:13:36] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 09:13:36] 127.0.0.1 - - [31/Mar/2013 17:13:36] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 09:16:33]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:16:33]  * Restarting with reloader
+[03-31 09:16:36] 127.0.0.1 - - [31/Mar/2013 17:16:36] "GET / HTTP/1.1" 200 -
+[03-31 09:16:36] 127.0.0.1 - - [31/Mar/2013 17:16:36] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 09:16:36] 127.0.0.1 - - [31/Mar/2013 17:16:36] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 09:16:36] 127.0.0.1 - - [31/Mar/2013 17:16:36] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 09:17:01]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:17:01]  * Restarting with reloader
+[03-31 09:17:42]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:17:42]  * Restarting with reloader
+[03-31 09:18:54] 127.0.0.1 - - [31/Mar/2013 17:18:54] "GET / HTTP/1.1" 200 -
+[03-31 09:18:55] 127.0.0.1 - - [31/Mar/2013 17:18:55] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 09:18:55] 127.0.0.1 - - [31/Mar/2013 17:18:55] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 09:18:55] 127.0.0.1 - - [31/Mar/2013 17:18:55] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 09:18:58] 127.0.0.1 - - [31/Mar/2013 17:18:58] "GET / HTTP/1.1" 200 -
+[03-31 09:18:58] 127.0.0.1 - - [31/Mar/2013 17:18:58] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 09:19:22]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:19:22]  * Restarting with reloader
+[03-31 09:19:27] 127.0.0.1 - - [31/Mar/2013 17:19:27] "GET / HTTP/1.1" 200 -
+[03-31 09:19:27] 127.0.0.1 - - [31/Mar/2013 17:19:27] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 09:19:27] 127.0.0.1 - - [31/Mar/2013 17:19:27] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 09:19:27] 127.0.0.1 - - [31/Mar/2013 17:19:27] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 09:20:35] 127.0.0.1 - - [31/Mar/2013 17:20:35] "GET / HTTP/1.1" 200 -
+[03-31 09:20:35] 127.0.0.1 - - [31/Mar/2013 17:20:35] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 09:20:36] 127.0.0.1 - - [31/Mar/2013 17:20:36] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 09:20:36] 127.0.0.1 - - [31/Mar/2013 17:20:36] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 09:22:08]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:22:08]  * Restarting with reloader
+[03-31 09:22:53]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:22:53]  * Restarting with reloader
+[03-31 09:24:13]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:24:13]  * Restarting with reloader
+[03-31 09:24:23]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:24:23]  * Restarting with reloader
+[03-31 09:24:32]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:24:32]  * Restarting with reloader
+[03-31 09:24:37] 127.0.0.1 - - [31/Mar/2013 17:24:37] "GET / HTTP/1.1" 500 -
+[03-31 09:24:37] 127.0.0.1 - - [31/Mar/2013 17:24:37] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 09:24:37] 127.0.0.1 - - [31/Mar/2013 17:24:37] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 09:24:37] 127.0.0.1 - - [31/Mar/2013 17:24:37] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 09:24:37] 127.0.0.1 - - [31/Mar/2013 17:24:37] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 09:24:37] 127.0.0.1 - - [31/Mar/2013 17:24:37] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 09:24:37] 127.0.0.1 - - [31/Mar/2013 17:24:37] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 09:24:37] 127.0.0.1 - - [31/Mar/2013 17:24:37] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 09:26:15]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:26:15]  * Restarting with reloader
+[03-31 09:26:17] 127.0.0.1 - - [31/Mar/2013 17:26:17] "GET / HTTP/1.1" 500 -
+[03-31 09:26:17] 127.0.0.1 - - [31/Mar/2013 17:26:17] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[03-31 09:26:17] 127.0.0.1 - - [31/Mar/2013 17:26:17] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+[03-31 09:26:17] 127.0.0.1 - - [31/Mar/2013 17:26:17] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[03-31 09:26:17] 127.0.0.1 - - [31/Mar/2013 17:26:17] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[03-31 09:26:17] 127.0.0.1 - - [31/Mar/2013 17:26:17] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[03-31 09:26:17] 127.0.0.1 - - [31/Mar/2013 17:26:17] "GET /?__debugger__=yes&cmd=resource&f=source.png HTTP/1.1" 200 -
+[03-31 09:26:17] 127.0.0.1 - - [31/Mar/2013 17:26:17] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 09:27:13]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:27:13]  * Restarting with reloader
+[03-31 09:27:16] 127.0.0.1 - - [31/Mar/2013 17:27:16] "GET / HTTP/1.1" 200 -
+[03-31 09:27:16] 127.0.0.1 - - [31/Mar/2013 17:27:16] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 09:27:16] 127.0.0.1 - - [31/Mar/2013 17:27:16] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 09:27:16] 127.0.0.1 - - [31/Mar/2013 17:27:16] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 09:28:46] 127.0.0.1 - - [31/Mar/2013 17:28:46] "GET / HTTP/1.1" 200 -
+[03-31 09:28:46] 127.0.0.1 - - [31/Mar/2013 17:28:46] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 09:28:46] 127.0.0.1 - - [31/Mar/2013 17:28:46] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 09:28:46] 127.0.0.1 - - [31/Mar/2013 17:28:46] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 09:30:16]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:30:16]  * Restarting with reloader
+[03-31 09:31:18]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:31:18]  * Restarting with reloader
+[03-31 09:31:54]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 09:31:54]  * Restarting with reloader
+[03-31 11:31:12] 127.0.0.1 - - [31/Mar/2013 19:31:12] "GET / HTTP/1.1" 200 -
+[03-31 11:31:13] 127.0.0.1 - - [31/Mar/2013 19:31:13] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 11:31:13] 127.0.0.1 - - [31/Mar/2013 19:31:13] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 11:31:13] 127.0.0.1 - - [31/Mar/2013 19:31:13] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 11:38:11]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 11:38:11]  * Restarting with reloader
+[03-31 11:38:36]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 11:38:36]  * Restarting with reloader
+[03-31 11:41:54]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 11:41:54]  * Restarting with reloader
+[03-31 12:31:51]  * Running on http://127.0.0.1:5000/
+[03-31 12:31:51]  * Restarting with reloader
+[03-31 12:34:08] 127.0.0.1 - - [31/Mar/2013 20:34:08] "GET / HTTP/1.1" 200 -
+[03-31 12:34:08] 127.0.0.1 - - [31/Mar/2013 20:34:08] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:34:08] 127.0.0.1 - - [31/Mar/2013 20:34:08] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:34:08] 127.0.0.1 - - [31/Mar/2013 20:34:08] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 12:34:31] 127.0.0.1 - - [31/Mar/2013 20:34:31] "GET / HTTP/1.1" 200 -
+[03-31 12:34:31] 127.0.0.1 - - [31/Mar/2013 20:34:31] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:34:31] 127.0.0.1 - - [31/Mar/2013 20:34:31] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:34:31] 127.0.0.1 - - [31/Mar/2013 20:34:31] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 12:35:29] 127.0.0.1 - - [31/Mar/2013 20:35:29] "GET / HTTP/1.1" 200 -
+[03-31 12:35:29] 127.0.0.1 - - [31/Mar/2013 20:35:29] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:35:29] 127.0.0.1 - - [31/Mar/2013 20:35:29] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:35:29] 127.0.0.1 - - [31/Mar/2013 20:35:29] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 12:35:30] 127.0.0.1 - - [31/Mar/2013 20:35:30] "GET / HTTP/1.1" 200 -
+[03-31 12:35:31] 127.0.0.1 - - [31/Mar/2013 20:35:31] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 12:35:59]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 12:35:59]  * Restarting with reloader
+[03-31 12:36:03] 127.0.0.1 - - [31/Mar/2013 20:36:03] "GET / HTTP/1.1" 200 -
+[03-31 12:36:03] 127.0.0.1 - - [31/Mar/2013 20:36:03] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:36:03] 127.0.0.1 - - [31/Mar/2013 20:36:03] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:36:03] 127.0.0.1 - - [31/Mar/2013 20:36:03] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 12:36:28]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 12:36:28]  * Restarting with reloader
+[03-31 12:36:29] 127.0.0.1 - - [31/Mar/2013 20:36:29] "GET / HTTP/1.1" 200 -
+[03-31 12:36:29] 127.0.0.1 - - [31/Mar/2013 20:36:29] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:36:29] 127.0.0.1 - - [31/Mar/2013 20:36:29] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:36:29] 127.0.0.1 - - [31/Mar/2013 20:36:29] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 12:36:55]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 12:36:55]  * Restarting with reloader
+[03-31 12:37:01] 127.0.0.1 - - [31/Mar/2013 20:37:01] "GET / HTTP/1.1" 200 -
+[03-31 12:37:01] 127.0.0.1 - - [31/Mar/2013 20:37:01] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:37:01] 127.0.0.1 - - [31/Mar/2013 20:37:01] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:37:01] 127.0.0.1 - - [31/Mar/2013 20:37:01] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 12:37:18]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 12:37:18]  * Restarting with reloader
+[03-31 12:39:21] 127.0.0.1 - - [31/Mar/2013 20:39:21] "GET / HTTP/1.1" 200 -
+[03-31 12:39:21] 127.0.0.1 - - [31/Mar/2013 20:39:21] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:39:21] 127.0.0.1 - - [31/Mar/2013 20:39:21] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:39:21] 127.0.0.1 - - [31/Mar/2013 20:39:21] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 12:43:31]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 12:43:31]  * Restarting with reloader
+[03-31 12:47:59]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 12:47:59]  * Restarting with reloader
+[03-31 12:49:17]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 12:49:17]  * Restarting with reloader
+[03-31 12:49:21]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 12:49:21]  * Restarting with reloader
+[03-31 12:49:25] 127.0.0.1 - - [31/Mar/2013 20:49:25] "GET / HTTP/1.1" 200 -
+[03-31 12:49:25] 127.0.0.1 - - [31/Mar/2013 20:49:25] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:49:25] 127.0.0.1 - - [31/Mar/2013 20:49:25] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:49:25] 127.0.0.1 - - [31/Mar/2013 20:49:25] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 12:52:05]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 12:52:05]  * Restarting with reloader
+[03-31 12:52:11] 127.0.0.1 - - [31/Mar/2013 20:52:11] "GET / HTTP/1.1" 200 -
+[03-31 12:52:11] 127.0.0.1 - - [31/Mar/2013 20:52:11] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:52:11] 127.0.0.1 - - [31/Mar/2013 20:52:11] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:52:11] 127.0.0.1 - - [31/Mar/2013 20:52:11] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 12:54:09]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 12:54:09]  * Restarting with reloader
+[03-31 12:54:10] 127.0.0.1 - - [31/Mar/2013 20:54:10] "GET / HTTP/1.1" 200 -
+[03-31 12:54:10] 127.0.0.1 - - [31/Mar/2013 20:54:10] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:54:10] 127.0.0.1 - - [31/Mar/2013 20:54:10] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:54:10] 127.0.0.1 - - [31/Mar/2013 20:54:10] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 12:54:24] 127.0.0.1 - - [31/Mar/2013 20:54:24] "GET / HTTP/1.1" 200 -
+[03-31 12:54:24] 127.0.0.1 - - [31/Mar/2013 20:54:24] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 12:54:39]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 12:54:39]  * Restarting with reloader
+[03-31 12:54:43] 127.0.0.1 - - [31/Mar/2013 20:54:43] "GET / HTTP/1.1" 200 -
+[03-31 12:54:43] 127.0.0.1 - - [31/Mar/2013 20:54:43] "GET /favicon.ico HTTP/1.1" 404 -
+[03-31 12:54:48] 127.0.0.1 - - [31/Mar/2013 20:54:48] "GET / HTTP/1.1" 200 -
+[03-31 12:54:48] 127.0.0.1 - - [31/Mar/2013 20:54:48] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:54:48] 127.0.0.1 - - [31/Mar/2013 20:54:48] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:54:48] 127.0.0.1 - - [31/Mar/2013 20:54:48] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 12:55:03]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 12:55:03]  * Restarting with reloader
+[03-31 12:55:06] 127.0.0.1 - - [31/Mar/2013 20:55:06] "GET / HTTP/1.1" 200 -
+[03-31 12:55:06] 127.0.0.1 - - [31/Mar/2013 20:55:06] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:55:06] 127.0.0.1 - - [31/Mar/2013 20:55:06] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:55:06] 127.0.0.1 - - [31/Mar/2013 20:55:06] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 12:55:49]  * Detected change in '/Users/yizhe/Working/typd/bigbrother/bbsite/application.py', reloading
+[03-31 12:55:49]  * Restarting with reloader
+[03-31 12:55:51] 127.0.0.1 - - [31/Mar/2013 20:55:51] "GET / HTTP/1.1" 200 -
+[03-31 12:55:51] 127.0.0.1 - - [31/Mar/2013 20:55:51] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:55:51] 127.0.0.1 - - [31/Mar/2013 20:55:51] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:55:51] 127.0.0.1 - - [31/Mar/2013 20:55:51] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 12:57:23] 127.0.0.1 - - [31/Mar/2013 20:57:23] "GET / HTTP/1.1" 200 -
+[03-31 12:57:23] 127.0.0.1 - - [31/Mar/2013 20:57:23] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:57:23] 127.0.0.1 - - [31/Mar/2013 20:57:23] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:57:23] 127.0.0.1 - - [31/Mar/2013 20:57:23] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 12:58:30] 127.0.0.1 - - [31/Mar/2013 20:58:30] "GET / HTTP/1.1" 200 -
+[03-31 12:58:30] 127.0.0.1 - - [31/Mar/2013 20:58:30] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:58:30] 127.0.0.1 - - [31/Mar/2013 20:58:30] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:58:30] 127.0.0.1 - - [31/Mar/2013 20:58:30] "GET /static/hchelper.js HTTP/1.1" 304 -
+[03-31 12:59:32] 127.0.0.1 - - [31/Mar/2013 20:59:32] "GET / HTTP/1.1" 200 -
+[03-31 12:59:32] 127.0.0.1 - - [31/Mar/2013 20:59:32] "GET /static/jquery-1.9.1.min.js HTTP/1.1" 304 -
+[03-31 12:59:32] 127.0.0.1 - - [31/Mar/2013 20:59:32] "GET /static/highcharts.js HTTP/1.1" 304 -
+[03-31 12:59:32] 127.0.0.1 - - [31/Mar/2013 20:59:32] "GET /static/hchelper.js HTTP/1.1" 304 -

@@ -1,0 +1,3 @@
+-e git://github.com/typd/basicplib.git@ea4dc48533d944e1a9ca5670cc864d2db4ce4cbd#egg=basicplib-dev
+logutils==0.3.3
+wsgiref==0.1.2

@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    {% block head %}
+    <title>{% block title %}base{% endblock %}</title>
+    {% endblock %}
+    <script type="text/javascript" src="./static/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="./static/highcharts.js"></script>
+    <script type="text/javascript" src="./static/hchelper.js"></script>
+    <link rel="shortcut icon" href="{{ url_for('.static', filename='favicon.ico') }}" />
+</head>
+<body>
+    <div id="content">
+        {% block content %}
+        {% endblock %}
+    </div>
+    <div id="footer">
+        {% block footer %}
+        {% endblock %}
+    </div>
+</body>
