@@ -15,7 +15,7 @@ def get_date_from_filename(filename):
 
 
 def get_datafile_name():
-    return "{}.dat".format(datetime.now().strptime('%Y-%m-%d'))
+    return "{}.dat".format(datetime.now().strftime('%Y-%m-%d'))
 
 
 def get_datafile_path():
