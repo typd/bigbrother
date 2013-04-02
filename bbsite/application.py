@@ -39,7 +39,7 @@ def get_hc_stacklistdata(data, days):
         counts = ['0'] * len(dictdata)
         for key, items in dictdata.items():
             idx = int(key)
-            counts[idx] = str(int(len(items) / days))
+            counts[idx] = str(int(len(items) / (days[stack] or 1)))
         string = '{{ name: "{}", data: [{}] }}'\
                 .format(shared.WEEKDAY_STACK_NAMES[stack], ','.join(counts))
         result.append(string)
@@ -78,27 +78,33 @@ def get_data_by_weekday_stack(data):
     data_by_weekday_stack = \
             [{str(day): [] for day in xrange(0, 7)}
              for _ in xrange(cfg.WEEKDAY_STACKS)]
+    exist_days_by_weekday = [set() for _ in xrange(0, 7)]
     for point in data:
         weekday_stack = point.hour /\
                 shared.WEEKDAY_STACK_INTERVAL
         data_by_weekday_stack[weekday_stack][str(point.weekday())]\
                 .append(point)
-    return data_by_weekday_stack
+        exist_days_by_weekday[point.weekday()].add(point.strftime('%Y-%m-%d'))
+    days_by_weekday = \
+            [len(exist_days) for exist_days in exist_days_by_weekday]
+    return data_by_weekday_stack, days_by_weekday
 
 
 @APP.route('/')
 def index():
     load_data()
-    weekdata = get_hc_stacklistdata(get_data_by_weekday_stack(shared.DATA),
-            shared.TOTAL_DAYS)
+    
+    weekdata = get_hc_stacklistdata(*get_data_by_weekday_stack(shared.DATA))
     hourdata = get_hc_listdata(get_data_by_hour(shared.DATA),
             shared.TOTAL_DAYS)
-    recent_days = 7
+
+    recent_days = min(7, shared.TOTAL_DAYS)
     recent_data = filter_by(shared.DATA, last_days=recent_days)
-    recent_weekdata = get_hc_stacklistdata(
-            get_data_by_weekday_stack(recent_data), recent_days)
+    recent_weekdata = \
+            get_hc_stacklistdata(*get_data_by_weekday_stack(recent_data))
     recent_hourdata = get_hc_listdata(
             get_data_by_hour(recent_data), recent_days)
+
     return render_template('stats.html',
             weekdata=weekdata,
             recent_weekdata=recent_weekdata,
