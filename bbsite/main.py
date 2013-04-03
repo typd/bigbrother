@@ -5,4 +5,4 @@ from application import APP
 
 if __name__ == '__main__':
     APP.debug = True
-    APP.run()
+    APP.run(port=9000)
