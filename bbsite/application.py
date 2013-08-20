@@ -89,7 +89,6 @@ def get_data_by_weekday_stack(data):
             [len(exist_days) for exist_days in exist_days_by_weekday]
     return data_by_weekday_stack, days_by_weekday
 
-
 @APP.route('/')
 def index():
     load_data()
